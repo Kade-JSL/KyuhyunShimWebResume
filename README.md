@@ -30,3 +30,4 @@
 - Git / GitHub
 - Visual Studio Code, Eclipse, Oracle SQL Developer
 - MS Office(Excel, PowerPoint)
+- 英語(TOEIC 950)、韓国語(母語)
