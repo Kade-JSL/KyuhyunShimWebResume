@@ -26,7 +26,7 @@
   - 11.2 XEで勉強
   - JOIN(ANSI, Oracle)、サブクエリなど
 - 以上のスタックを利用してウェブサイトを`<html>`から`request.getRequestDispacher().forward()`、そして`ORDER BY pno DESC`まで作る個人プロジェクト経験
-  - ブログプロジェクト：TBD 
+  - ブログプロジェクト：<https://bit.ly/3DCfeVI> 
 - Git / GitHub
 - Visual Studio Code, Eclipse, Oracle SQL Developer
 - MS Office(Excel, PowerPoint)
